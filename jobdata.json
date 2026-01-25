@@ -1,0 +1,177 @@
+{
+  "jobs": [
+    {
+      "id": "nurse",
+      "name": "Nurse",
+      "responsibilities": [
+        "Assist patients during registration and clinical assessment",
+        "Provide nursing care following standard protocols",
+        "Administer medication safely as per nursing council guidelines",
+        "Assist doctors during clinical procedures",
+        "Maintain accurate patient records and documentation",
+        "Provide patient health education and counseling",
+        "Ensure infection prevention and control at all times",
+        "Respond appropriately during emergency situations"
+      ],
+      "education": [
+        "B.Sc. in Nursing Science or Diploma in Nursing"
+      ],
+      "experience": [
+        "Minimum 2 years experience in clinic, diagnostic center, or hospital"
+      ],
+      "additionalRequirements": [
+        "Valid nursing license",
+        "Strong communication and teamwork skills",
+        "Ability to use smartphone and mobile applications",
+        "Female candidates are encouraged to apply"
+      ],
+      "deadline": "28 February 2026"
+    },
+
+    {
+      "id": "paramedic",
+      "name": "Paramedic",
+      "responsibilities": [
+        "Provide primary healthcare services at clinic and outreach level",
+        "Conduct ANC, PNC, and health screening",
+        "Provide first aid and emergency support",
+        "Assist GP during clinical procedures",
+        "Maintain infection control and waste management",
+        "Conduct health and nutrition counseling"
+      ],
+      "education": [
+        "Diploma in Paramedic / FWV / Medical Assistant from a recognized institute"
+      ],
+      "experience": [
+        "Minimum 2–3 years experience in hospital or clinic"
+      ],
+      "additionalRequirements": [
+        "Only female candidates allowed",
+        "Good ICT and documentation skills",
+        "Ability to work in urban community settings"
+      ],
+      "deadline": "15 March 2026"
+    },
+
+    {
+      "id": "communitySupervisor",
+      "name": "Community Supervisor",
+      "responsibilities": [
+        "Supervise community volunteers and field activities",
+        "Track pregnant women, newborns, and NCD cases",
+        "Ensure ANC, PNC, EPI and nutrition services",
+        "Organize community and courtyard meetings",
+        "Coordinate with clinic and ICT teams",
+        "Prepare reports and monthly work plans"
+      ],
+      "education": [
+        "Minimum graduation in any discipline (Management preferred)"
+      ],
+      "experience": [
+        "Minimum 2 years experience in community or field level work"
+      ],
+      "additionalRequirements": [
+        "Strong interpersonal and reporting skills",
+        "Ability to work with multiple assignments",
+        "Male and female both can apply"
+      ],
+      "deadline": "20 March 2026"
+    },
+
+    {
+      "id": "counselor",
+      "name": "Counselor (Health & Nutrition)",
+      "responsibilities": [
+        "Provide health and nutrition counseling",
+        "Counsel on maternal, child, adolescent health",
+        "Provide GBV and mental health related counseling",
+        "Maintain confidentiality of client information",
+        "Support clinic manager with reports"
+      ],
+      "education": [
+        "Masters in Food & Nutrition / Public Health / Psychology / Social Science"
+      ],
+      "experience": [
+        "2–3 years experience in NGO or clinic-based counseling"
+      ],
+      "additionalRequirements": [
+        "Female candidates only",
+        "Strong communication and empathetic skills",
+        "Willingness to work on-call if required"
+      ],
+      "deadline": "09 October 2025"
+    },
+
+    {
+      "id": "labTechnologist",
+      "name": "Medical Technologist",
+      "responsibilities": [
+        "Perform routine and emergency lab tests",
+        "Maintain lab equipment and instruments",
+        "Ensure availability of reagents and logistics",
+        "Prepare lab reports and documentation",
+        "Follow infection control protocols"
+      ],
+      "education": [
+        "Diploma in Medical Technology (Lab) from approved institute"
+      ],
+      "experience": [
+        "2–3 years experience in clinic or hospital laboratory"
+      ],
+      "additionalRequirements": [
+        "Knowledge of biochemical and hematological analyzer",
+        "Good interpersonal communication skills",
+        "Ability to use smartphone and apps"
+      ],
+      "deadline": "26 November 2025"
+    },
+
+    {
+      "id": "generalPractitioner",
+      "name": "General Practitioner",
+      "responsibilities": [
+        "Provide outpatient consultation services",
+        "Manage primary healthcare cases",
+        "Conduct digital patient registration and prescription",
+        "Provide on-the-job training to clinic staff",
+        "Participate in emergency healthcare services"
+      ],
+      "education": [
+        "MBBS with valid BMDC registration"
+      ],
+      "experience": [
+        "2–3 years clinical experience, preferably in urban PHC"
+      ],
+      "additionalRequirements": [
+        "Female candidates preferred",
+        "Basic IT knowledge",
+        "Strong counseling and interpersonal skills"
+      ],
+      "deadline": "26 November 2025"
+    },
+
+    {
+      "id": "midwife",
+      "name": "Midwife",
+      "responsibilities": [
+        "Provide ANC, PNC and delivery services",
+        "Conduct normal vaginal delivery independently",
+        "Identify risk pregnancy and refer appropriately",
+        "Provide newborn care and resuscitation",
+        "Maintain delivery and patient records"
+      ],
+      "education": [
+        "Diploma in Midwifery with valid BNMC registration"
+      ],
+      "experience": [
+        "2–3 years professional experience with minimum 300 NVDs"
+      ],
+      "additionalRequirements": [
+        "Good interpersonal and communication skills",
+        "Ability to use mobile apps",
+        "Maintain patient confidentiality"
+      ],
+      "deadline": "26 November 2025"
+    }
+  ]
+}
