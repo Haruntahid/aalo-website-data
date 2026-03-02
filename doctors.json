@@ -1,0 +1,159 @@
+{
+doctors = [
+  {
+    name: "Dr Mohsina Ahmed Keya",
+    designation: "General Practitioner",
+    institute: "Samaj Vittik Medical College"
+  },
+  {
+    name: "Dr Luvaiyat Mohsina Rob",
+    designation: "General Practitioner",
+    institute: "Shaheed Monsur Ali Medical College and Hospital"
+  },
+  {
+    name: "Dr. Moumita Sarker",
+    designation: "General Practitioner",
+    institute: "Kumudini Women's Medical College"
+  },
+  {
+    name: "Dr Muhammad Ali Hossain",
+    designation: "General Practitioner",
+    institute: "Holy Family Red Crescent Medical College and Hospital"
+  },
+  {
+    name: "Dr H M Iftekhairul Alam",
+    designation: "General Practitioner",
+    institute: "Mymensingh Medical College"
+  },
+  {
+    name: "Dr. Md. Ashaduzzaman Noor",
+    designation: "General Practitioner",
+    institute: "Dhaka Medical College"
+  },
+  {
+    name: "Dr. Snahashish Dey",
+    designation: "General Practitioner",
+    institute: "Shaheed Monsur Ali Medical College"
+  },
+  {
+    name: "Dr. Roza Rezwana",
+    designation: "General Practitioner",
+    institute: "Sylhet Women's Medical College"
+  },
+  {
+    name: "Dr. SK-Nadir Hossain",
+    designation: "General Practitioner",
+    institute: "Shaheed Monsur Ali Medical College"
+  },
+  {
+    name: "Dr. Naima Islam Poly",
+    designation: "General Practitioner",
+    institute: "Gonoshasthaya Samaj Vittik Medical College"
+  },
+  {
+    name: "Dr. Maliha Kamal",
+    designation: "General Practitioner",
+    institute: "Uttara Adhunik Medical College"
+  },
+  {
+    name: "Dr. M.M. Shafique",
+    designation: "General Practitioner",
+    institute: "Delta Medical College and Hospital"
+  },
+  {
+    name: "Dr. Sultana Razia Faruquee",
+    designation: "General Practitioner",
+    institute: "Sher-E-Bangla Medical College"
+  },
+  {
+    name: "Dr. Tawhid Ahmed",
+    designation: "General Practitioner",
+    institute: "Enam Medical College"
+  },
+  {
+    name: "Dr. Al-wazedur Rahman",
+    designation: "General Practitioner",
+    institute: "Shaheed Monsur Ali Medical College Hospital"
+  },
+  {
+    name: "Dr. Tania Akter",
+    designation: "General Practitioner",
+    institute: "Dhaka Central International Medical College Hospital"
+  },
+  {
+    name: "Dr. Mohoshina Karim",
+    designation: "General Practitioner",
+    institute: "Dhaka University"
+  },
+  {
+    name: "Dr. Md. Riyadh Hasan",
+    designation: "General Practitioner",
+    institute: "State University of Bangladesh"
+  },
+  {
+    name: "Dr. Sultana Jahan Mishu",
+    designation: "General Practitioner",
+    institute: "Sir Salimullah Medical College"
+  },
+  {
+    name: "Dr Hossain Mohammed Ershad",
+    designation: "General Practitioner",
+    institute: "Bangladesh College of General Practitioners"
+  },
+  {
+    name: "Dr Farzana Khan",
+    designation: "General Practitioner",
+    institute: "National Institute of Preventive and Social Medicine (NIPSOM)"
+  },
+  {
+    name: "Dr. Moniza Farah",
+    designation: "General Practitioner",
+    institute: "Sher-E-Bangla Medical College, Barisal"
+  },
+  {
+    name: "Dr. Samar Chandra Roy",
+    designation: "General Practitioner",
+    institute: "Shihezi Medical University (China)"
+  },
+  {
+    name: "Dr. Farzana Faiza Mozid",
+    designation: "General Practitioner",
+    institute: "Rajshahi Medical College and Hospital"
+  },
+  {
+    name: "Dr. Monowarul Islam",
+    designation: "General Practitioner",
+    institute: "MH Samorita Medical College"
+  },
+  {
+    name: "Dr. Iqbal Mahmud",
+    designation: "General Practitioner",
+    institute: "Sher-E-Bangla Medical College, Barisal"
+  },
+  {
+    name: "Dr. Kamrun Naher Dolly",
+    designation: "General Practitioner",
+    institute: "Sher-E-Bangla Medical College and Hospital"
+  },
+  {
+    name: "Dr. Tangina Afrose",
+    designation: "General Practitioner",
+    institute: "Jahurul Islam Medical College"
+  },
+  {
+    name: "Dr. Shehab Uddin",
+    designation: "General Practitioner",
+    institute: "University of Science and Technology Chittagong"
+  },
+  {
+    name: "Dr. Israt Jahan",
+    designation: "General Practitioner",
+    institute: "International Medical College and Hospital"
+  },
+  {
+    name: "Dr. Wasef Ibney Murad",
+    designation: "General Practitioner",
+    institute: "Holy Family Red Crescent Medical College Hospital"
+  }
+];
+}
