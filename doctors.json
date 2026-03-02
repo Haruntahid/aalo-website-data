@@ -1,5 +1,5 @@
 {
-doctors = [
+doctors : [
   {
     name: "Dr Mohsina Ahmed Keya",
     degree: "MBBS, FCGP, ADMU, CCD, MSS (CSW)",
