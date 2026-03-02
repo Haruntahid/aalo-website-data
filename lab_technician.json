@@ -1,0 +1,59 @@
+{
+  "lab_technician":  [
+  {
+    "name": "Sujan Mojumder",
+    "degree": "Diploma Medical Technologist",
+    "institute": "Dhaka International Diploma Medical College"
+  },
+  {
+    "name": "Shanti Rani Ghosh",
+    "degree": "Diploma Medical Technologist",
+    "institute": "Institute of Community Development Services"
+  },
+  {
+    "name": "Jishan Ahmed",
+    "degree": "MT",
+    "institute": "Green View Institute of Health Technology"
+  },
+  {
+    "name": "Meghla Akter",
+    "degree": "DMT",
+    "institute": "Gonoshasthaya Institute of Health Science"
+  },
+  {
+    "name": "Biddut Hossain",
+    "degree": "Diploma in Pathology",
+    "institute": "Nydasa Institute of Medical Technology, Dhaka"
+  },
+  {
+    "name": "Mahfuza Sultana",
+    "degree": "MT, BSS, MSS",
+    "institute": "Shah Prince Medical Institute"
+  },
+  {
+    "name": "Dipon Kumar Paul",
+    "degree": "Diploma in Laboratory Medicine",
+    "institute": "Kushtia Medical Institute"
+  },
+  {
+    "name": "MA. Nasim",
+    "degree": "Diploma in Medical Technology",
+    "institute": "Green View Institute of Health Technology, Dhaka"
+  },
+  {
+    "name": "Md Shahajalal",
+    "degree": "Diploma in Medical Technology",
+    "institute": "Bangladesh Research Institute for Integrated Medicine (BRIIM)"
+  },
+  {
+    "name": "Md. Shohidul Islam",
+    "degree": "Diploma in Lab Medical Technologist",
+    "institute": "Premier University and Technology, Uttara"
+  },
+  {
+    "name": "Sumi Khatun",
+    "degree": "Diploma in Medical Technologist",
+    "institute": "Professor Sohrab Uddin Institute of Medical Technology and MATS, Tangail"
+  }
+]
+}
