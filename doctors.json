@@ -1,159 +1,195 @@
 {
   "doctors": [
-    {
-      "name": "Dr Mohsina Ahmed Keya",
-      "degree": "MBBS, FCGP, ADMU, CCD, MSS (CSW)",
-      "institute": "Samaj Vittik Medical College"
+     {
+      "name": "Dr. Tawhid Ahmed",
+      "degree": "MBBS, PGT (Medicine)",
+      "institute": "Enam Medical College"
     },
-    {
-      "name": "Dr Luvaiyat Mohsina Rob",
-      "degree": "MBBS, CCD, CMU",
-      "institute": "Shaheed Monsur Ali Medical College and Hospital"
+
+     {
+      "name": "Dr. Mohoshina Karim",
+      "degree": "MBBS, MPH, MPhil, DMU, PhD (Ongoing)",
+      "institute": "Dhaka University"
     },
-    {
-      "name": "Dr. Moumita Sarker",
-      "degree": "MBBS, CMU, DMU (On Course)",
-      "institute": "Kumudini Women's Medical College"
-    },
-    {
-      "name": "Dr Muhammad Ali Hossain",
-      "degree": "MBBS (DU), PGT (Medicine)",
-      "institute": "Holy Family Red Crescent Medical College and Hospital"
-    },
-    {
-      "name": "Dr H M Iftekhairul Alam",
-      "degree": "MBBS",
-      "institute": "Mymensingh Medical College"
-    },
-    {
-      "name": "Dr. Md. Ashaduzzaman Noor",
-      "degree": "MBBS (DMC), CCD (BIRDEM), PGT (Medicine)",
-      "institute": "Dhaka Medical College"
-    },
-    {
-      "name": "Dr. Snahashish Dey",
-      "degree": "MBBS, CCD",
-      "institute": "Shaheed Monsur Ali Medical College"
-    },
-    {
-      "name": "Dr. Roza Rezwana",
-      "degree": "MBBS, CMU, MPH",
-      "institute": "Sylhet Women's Medical College"
-    },
+
     {
       "name": "Dr. SK-Nadir Hossain",
       "degree": "MBBS (DU), CCD",
       "institute": "Shaheed Monsur Ali Medical College"
     },
-    {
-      "name": "Dr. Naima Islam Poly",
-      "degree": "MBBS, DMU, CCD",
-      "institute": "Gonoshasthaya Samaj Vittik Medical College"
-    },
-    {
-      "name": "Dr. Maliha Kamal",
-      "degree": "MBBS, DMU, MPH",
-      "institute": "Uttara Adhunik Medical College"
-    },
-    {
-      "name": "Dr. M.M. Shafique",
-      "degree": "MBBS, ADMU (Diabetology)",
-      "institute": "Delta Medical College and Hospital"
-    },
+
     {
       "name": "Dr. Sultana Razia Faruquee",
       "degree": "MBBS, MPH, PGT, DMU, TVS",
       "institute": "Sher-E-Bangla Medical College"
     },
-    {
-      "name": "Dr. Tawhid Ahmed",
-      "degree": "MBBS, PGT (Medicine)",
-      "institute": "Enam Medical College"
-    },
+
     {
       "name": "Dr. Al-wazedur Rahman",
       "degree": "MBBS, FCGP, CCD, MPH",
       "institute": "Shaheed Monsur Ali Medical College Hospital"
     },
-    {
-      "name": "Dr. Tania Akter",
-      "degree": "MBBS, DMU",
-      "institute": "Dhaka Central International Medical College Hospital"
-    },
-    {
-      "name": "Dr. Mohoshina Karim",
-      "degree": "MBBS, MPH, MPhil, DMU, PhD (Ongoing)",
-      "institute": "Dhaka University"
-    },
-    {
-      "name": "Dr. Md. Riyadh Hasan",
-      "degree": "MBBS, MPH",
-      "institute": "State University of Bangladesh"
-    },
-    {
-      "name": "Dr. Sultana Jahan Mishu",
-      "degree": "MBBS",
-      "institute": "Sir Salimullah Medical College"
-    },
-    {
-      "name": "Dr Hossain Mohammed Ershad",
-      "degree": "MBBS, FCGP",
-      "institute": "Bangladesh College of General Practitioners"
-    },
-    {
-      "name": "Dr Farzana Khan",
-      "degree": "MBBS, MPH",
-      "institute": "National Institute of Preventive and Social Medicine (NIPSOM)"
-    },
-    {
-      "name": "Dr. Moniza Farah",
-      "degree": "MBBS, MPH (RCH), DMU, PGT (Gynae & OBS), CCD (BIRDEM)",
-      "institute": "Sher-E-Bangla Medical College, Barisal"
-    },
-    {
-      "name": "Dr. Samar Chandra Roy",
-      "degree": "MBBS, PGT, CCD, CCGP",
-      "institute": "Shihezi Medical University (China)"
-    },
-    {
-      "name": "Dr. Farzana Faiza Mozid",
-      "degree": "MBBS",
-      "institute": "Rajshahi Medical College and Hospital"
-    },
-    {
-      "name": "Dr. Monowarul Islam",
-      "degree": "MBBS",
-      "institute": "MH Samorita Medical College"
-    },
-    {
-      "name": "Dr. Iqbal Mahmud",
-      "degree": "MBBS (DU)",
-      "institute": "Sher-E-Bangla Medical College, Barisal"
-    },
+
     {
       "name": "Dr. Kamrun Naher Dolly",
       "degree": "MBBS, DMU, CMU",
       "institute": "Sher-E-Bangla Medical College and Hospital"
     },
+
     {
       "name": "Dr. Tangina Afrose",
       "degree": "MBBS, MPH, ADMU",
       "institute": "Jahurul Islam Medical College"
     },
+
+    {
+      "name": "Dr. Roza Rezwana",
+      "degree": "MBBS, CMU, MPH",
+      "institute": "Sylhet Women's Medical College"
+    },
+
+    {
+      "name": "Dr. Md. Riyadh Hasan",
+      "degree": "MBBS, MPH",
+      "institute": "State University of Bangladesh"
+    },
+
+    {
+      "name": "Dr. Snahashish Dey",
+      "degree": "MBBS, CCD",
+      "institute": "Shaheed Monsur Ali Medical College"
+    },
+
+    {
+      "name": "Dr. Maliha Kamal",
+      "degree": "MBBS, DMU, MPH",
+      "institute": "Uttara Adhunik Medical College"
+    },
+
+     {
+      "name": "Dr. Samar Chandra Roy",
+      "degree": "MBBS, PGT, CCD, CCGP",
+      "institute": "Shihezi Medical University (China)"
+    },
+
+    {
+      "name": "Dr. Farzana Faiza Mozid",
+      "degree": "MBBS",
+      "institute": "Rajshahi Medical College and Hospital"
+    },
+
+    {
+      "name": "Dr. Moniza Farah",
+      "degree": "MBBS, MPH (RCH), DMU, PGT (Gynae & OBS), CCD (BIRDEM)",
+      "institute": "Sher-E-Bangla Medical College, Barisal"
+    },
+
+    {
+      "name": "Dr. Moumita Sarker",
+      "degree": "MBBS, CMU, DMU (On Course)",
+      "institute": "Kumudini Women's Medical College"
+    },
+
+    {
+      "name": "Dr H M Iftekhairul Alam",
+      "degree": "MBBS",
+      "institute": "Mymensingh Medical College"
+    },
+
+    {
+      "name": "Dr Hossain Mohammed Ershad",
+      "degree": "MBBS, FCGP",
+      "institute": "Bangladesh College of General Practitioners"
+    },
+
+    {
+      "name": "Dr. Md. Ashaduzzaman Noor",
+      "degree": "MBBS (DMC), CCD (BIRDEM), PGT (Medicine)",
+      "institute": "Dhaka Medical College"
+    },
+
     {
       "name": "Dr. Shehab Uddin",
       "degree": "MBBS, PGT (Internal Medicine), ECGP",
       "institute": "University of Science and Technology Chittagong"
     },
+
+    {
+      "name": "Dr. Iqbal Mahmud",
+      "degree": "MBBS (DU)",
+      "institute": "Sher-E-Bangla Medical College, Barisal"
+    },
+
     {
       "name": "Dr. Israt Jahan",
       "degree": "MBBS, DMU, CCD, CMU",
       "institute": "International Medical College and Hospital"
     },
+
+    {
+      "name": "Dr Muhammad Ali Hossain",
+      "degree": "MBBS (DU), PGT (Medicine)",
+      "institute": "Holy Family Red Crescent Medical College and Hospital"
+    },
+
+    {
+      "name": "Dr. Monowarul Islam",
+      "degree": "MBBS",
+      "institute": "MH Samorita Medical College"
+    },
+
+    {
+      "name": "Dr. Sultana Jahan Mishu",
+      "degree": "MBBS",
+      "institute": "Sir Salimullah Medical College"
+    },
+
+    {
+      "name": "Dr. Trina Chakraborty",
+      "degree": "MBBS, DMU",
+      "institute": ""
+    },
+
     {
       "name": "Dr. Wasef Ibney Murad",
       "degree": "MBBS, PGT (Medicine)",
       "institute": "Holy Family Red Crescent Medical College Hospital"
+    },
+
+    {
+      "name": "Dr Farzana Khan",
+      "degree": "MBBS, MPH",
+      "institute": "National Institute of Preventive and Social Medicine (NIPSOM)"
+    },
+
+    {
+      "name": "Dr. M.M. Shafique",
+      "degree": "MBBS, ADMU (Diabetology)",
+      "institute": "Delta Medical College and Hospital"
+    },
+
+    {
+      "name": "Dr. Tania Akter",
+      "degree": "MBBS, DMU",
+      "institute": "Dhaka Central International Medical College Hospital"
+    },
+
+    {
+      "name": "Dr Mohsina Ahmed Keya",
+      "degree": "MBBS, FCGP, ADMU, CCD, MSS (CSW)",
+      "institute": "Samaj Vittik Medical College"
+    },
+
+    {
+      "name": "Dr Luvaiyat Mohsina Rob",
+      "degree": "MBBS, CCD, CMU",
+      "institute": "Shaheed Monsur Ali Medical College and Hospital"
+    },
+
+    {
+      "name": "Dr. Naima Islam Poly",
+      "degree": "MBBS, DMU, CCD",
+      "institute": "Gonoshasthaya Samaj Vittik Medical College"
     }
   ]
 }
