@@ -147,7 +147,7 @@
     {
       "name": "Dr. Trina Chakraborty",
       "degree": "MBBS, DMU",
-      "institute": ""
+      "institute": "Medical College for Women and Hospital"
     },
 
     {
@@ -184,12 +184,6 @@
       "name": "Dr. Luvaiyat Mohsina Rob",
       "degree": "MBBS, CCD, CMU",
       "institute": "Shaheed Monsur Ali Medical College and Hospital"
-    },
-
-    {
-      "name": "Dr. Naima Islam Poly",
-      "degree": "MBBS, DMU, CCD",
-      "institute": "Gonoshasthaya Samaj Vittik Medical College"
     }
   ]
 }
