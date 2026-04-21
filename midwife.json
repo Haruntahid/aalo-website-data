@@ -1,89 +1,89 @@
 {
  "midwife":  [
   {
+    "name": "Laibin Akter",
+    "degree": "Diploma in Midwifery, BSc in Midwifery",
+    "institute": ""
+  },
+  {
     "name": "Tasnia Akter",
     "degree": "Diploma in Midwifery",
-    "institute": "PHD Midwifery Institute"
+    "institute": ""
   },
   {
     "name": "Jannatul Ferdaus",
     "degree": "Diploma in Midwifery",
-    "institute": "BRAC University"
+    "institute": ""
   },
   {
     "name": "Sushama Barai",
     "degree": "Diploma in Midwifery",
-    "institute": "Dhaka Nursing College, Dhaka"
+    "institute": ""
   },
   {
     "name": "Most: Fatema Akter",
     "degree": "Diploma in Midwifery",
-    "institute": "BRAC University"
+    "institute": ""
   },
   {
     "name": "Lipi Dhali",
     "degree": "Diploma in Midwifery",
-    "institute": "Munshiganj Nursing Institute"
+    "institute": ""
   },
   {
     "name": "Most. Suriya Akter",
     "degree": "Diploma in Midwifery",
-    "institute": "Kurigram Nursing Institute, Kurigram"
+    "institute": ""
   },
   {
     "name": "Shima Akter",
     "degree": "Diploma in Midwifery",
-    "institute": "Kurigram Nursing Institute, Kurigram"
+    "institute": ""
   },
   {
     "name": "Shammi Akhter",
     "degree": "Diploma in Midwifery",
-    "institute": "Naogaon Nursing Institute, Naogaon"
+    "institute": ""
   },
   {
     "name": "Mst. Rimi Akter",
     "degree": "Diploma in Midwifery",
-    "institute": "Nursing Institute, Moulvibazar"
+    "institute": ""
   },
   {
     "name": "Hamida Akter",
     "degree": "Diploma in Midwifery",
-    "institute": "Naogaon Nursing Institute, Noagaon"
+    "institute": ""
   },
   {
     "name": "Mst. Kamrun Naher",
     "degree": "Diploma in Midwifery",
-    "institute": "Dhaka Nursing College, Dhaka"
+    "institute": ""
   },
   {
     "name": "Seuly Akter",
     "degree": "Diploma in Midwifery",
-    "institute": "Dinajpur Nursing College, Dinajpur"
-  },
-  {
-    "name": "Laibin Akter",
-    "degree": "Post Basic BSc in Midwifery",
-    "institute": "Khulna Medical University"
+    "institute": ""
   },
   {
     "name": "Noymi Roy",
     "degree": "Diploma in Midwifery",
-    "institute": "BRAC University, PHD Centre, Khulna"
+    "institute": ""
   },
   {
     "name": "Armina Akter",
     "degree": "Diploma in Midwifery",
-    "institute": "Dinajpur Nursing College, Dinajpur"
+    "institute": ""
   },
   {
     "name": "Bichittray Roy",
     "degree": "Diploma in Midwifery",
-    "institute": "BRAC University, PHD Centre, Khulna"
+    "institute": ""
   },
   {
     "name": "Shimu Akter",
     "degree": "Diploma in Midwifery",
-    "institute": "Dhaka Nursing College, Dhaka"
+    "institute": ""
   }
 ]
 }
