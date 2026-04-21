@@ -1,74 +1,77 @@
 {
   "paramedic":  [
   {
-    "name": "Somita Akter",
-    "degree": "Community Paramedic",
-    "institute": "Institute of Health and Development, AITAM Welfare Organization"
-  },
-  {
-    "name": "Ameli Begum",
-    "degree": "Community Paramedic",
-    "institute": "Population Services & Training Center (PSTC)"
-  },
-  {
-    "name": "Mst. Polyara Khatun",
-    "degree": "Community Paramedic",
-    "institute": "Bangladesh Nursing & Midwifery Council Community Paramedic Institute, Population Service & Training Center (PSTC)"
-  },
-  {
     "name": "Zannatul Ferdous",
     "degree": "Diploma in Paramedic",
-    "institute": "Youth Training Center, Uttara"
-  },
-  {
-    "name": "Mitali Audhikary",
-    "degree": "Diploma in Nursing",
-    "institute": "Pallabi Nursing Institute"
+    "institute": ""
   },
   {
     "name": "Riya Akter Hira",
     "degree": "Diploma in Paramedic",
-    "institute": "Nydasa Institute of Medical Technology, Dhaka"
-  },
-  {
-    "name": "Mondira Mitro",
-    "degree": "Community Paramedic",
-    "institute": "Bangladesh Community Paramedic Institute, Rajshahi"
-  },
-  {
-    "name": "Afifa Kaisar",
-    "degree": "DMF",
-    "institute": "Bushra Medical Assistant Training School, Satkhira"
+    "institute": ""
   },
   {
     "name": "Tahira Khan Runa",
     "degree": "Diploma in Paramedic",
-    "institute": "NIdasha Institute of Medical Technology"
-  },
-  {
-    "name": "Sonia Akter",
-    "degree": "Diploma Medical Assistant",
-    "institute": "Local Medical Welfare Association"
+    "institute": ""
   },
   {
     "name": "Mst. Tahmina Akter",
     "degree": "Diploma Paramedic",
-    "institute": "SPKS, SAIC Medical Technical College, Dhaka"
-  },
-  {
-    "name": "Sohanur Islam",
-    "degree": "Paramedic",
-    "institute": "J.T.S Community Paramedic Institute, Hazaribag, Dhaka"
+    "institute": ""
   },
   {
     "name": "Afroza Begum",
     "degree": "Diploma in Paramedic",
-    "institute": "Talent College of Medical Science and Technology"
+    "institute": ""
   },
   {
     "name": "Peya Akter",
     "degree": "Diploma Paramedic",
-    "institute": "Talent College of Medical Science and Technology"
-  }
+    "institute": ""
+  },
+  {
+    "name": "Sohanur Islam",
+    "degree": "Paramedic",
+    "institute": ""
+  },
+  {
+    "name": "Mitali Audhikary",
+    "degree": "Diploma in Nursing",
+    "institute": ""
+  },
+  
+  {
+    "name": "Afifa Kaisar",
+    "degree": "Diploma in Medical Faculty",
+    "institute": ""
+  },  
+  
+  {
+    "name": "Sonia Akter",
+    "degree": "Diploma Medical Assistant",
+    "institute": ""
+  },
+  {
+    "name": "Somita Akter",
+    "degree": "Community Paramedic",
+    "institute": ""
+  },
+  {
+    "name": "Ameli Begum",
+    "degree": "Community Paramedic",
+    "institute": ""
+  },
+  {
+    "name": "Mst. Polyara Khatun",
+    "degree": "Community Paramedic",
+    "institute": ""
+  },
+    
+  {
+    "name": "Mondira Mitro",
+    "degree": "Community Paramedic",
+    "institute": ""
+  },
 ] 
 }
