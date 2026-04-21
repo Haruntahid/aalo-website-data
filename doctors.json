@@ -2,8 +2,8 @@
   "doctors": [
      {
       "name": "Dr. Tawhid Ahmed",
-      "degree": "MBBS, PGT (Medicine)",
-      "institute": "Enam Medical College"
+      "degree": "MBBS, PGT (Med)",
+      "institute": null
     },
 
      {
