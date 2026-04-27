@@ -1,0 +1,64 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Quality Improvement Session",
+      "images": [
+        { "src": "https://raw.githubusercontent.com/haruntahid/aalo-website-data/main/assets/training/img9.jpeg", "subtitle": "Team discussion at Aalo Clinic Karail" },
+        { "src": "https://raw.githubusercontent.com/haruntahid/aalo-website-data/main/assets/training/img10.jpeg", "subtitle": "Weekly session review at Aalo Clinic Ershadnagar" },
+        { "src": "https://raw.githubusercontent.com/haruntahid/aalo-website-data/main/assets/training/img11.jpeg", "subtitle": "Community health counseling and field visit" },
+        { "src": "https://raw.githubusercontent.com/haruntahid/aalo-website-data/main/assets/training/img12.jpeg", "subtitle": "Clinical training on maternal and newborn care" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Digital Screening",
+      "images": [
+        { "src": "https://raw.githubusercontent.com/haruntahid/aalo-website-data/main/assets/training/img1.jpg", "subtitle": "Screening of NCDs and Nutrition" }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Maternal Health",
+      "images": [
+        { "src": "https://raw.githubusercontent.com/haruntahid/aalo-website-data/main/assets/training/img2.png", "subtitle": "Antenatal and post-natal care" }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Child Care",
+      "images": [
+        { "src": "https://raw.githubusercontent.com/haruntahid/aalo-website-data/main/assets/training/img3.png", "subtitle": "Ensuring better child health" }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Nutrition Program",
+      "images": [
+        { "src": "https://raw.githubusercontent.com/haruntahid/aalo-website-data/main/assets/training/img4.jpeg", "subtitle": "Awareness and diet planning" }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Community Outreach",
+      "images": [
+        { "src": "https://raw.githubusercontent.com/haruntahid/aalo-website-data/main/assets/training/img5.jpeg", "subtitle": "Health closer to the community" }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "FP Commodities",
+      "images": [
+        { "src": "https://raw.githubusercontent.com/haruntahid/aalo-website-data/main/assets/training/img6.jpeg", "subtitle": "Distribution and awareness" }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Awareness Training",
+      "images": [
+        { "src": "https://raw.githubusercontent.com/haruntahid/aalo-website-data/main/assets/training/img7.png", "subtitle": "Workshops and campaigns" },
+        { "src": "https://raw.githubusercontent.com/haruntahid/aalo-website-data/main/assets/training/img8.png", "subtitle": "Counseling Sessions" }
+      ]
+    }
+  ]
+}
