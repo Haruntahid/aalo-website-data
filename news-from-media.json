@@ -111,7 +111,7 @@
     },
     {
       "id": "nfm-010",
-      "source": "BSS News",
+      "source": "The BSS News",
       "type": "portal",
       "title": "BSS News Coverage",
       "url": "https://www.bssnews.net/bangla/news-flash/322294",
@@ -123,7 +123,7 @@
     },
     {
       "id": "nfm-011",
-      "source": "BD Protidin",
+      "source": "The BD Protidin",
       "type": "portal",
       "title": "BD Protidin Coverage",
       "url": "https://en.bd-pratidin.com/national/2026/07/09/65905",
@@ -135,7 +135,7 @@
     },
     {
       "id": "nfm-012",
-      "source": "Bangla News24",
+      "source": "The Bangla News24",
       "type": "portal",
       "title": "Bangla News24 Coverage",
       "url": "https://www.banglanews24.com/health/news/bd/1665719.details",
@@ -147,7 +147,7 @@
     },
     {
       "id": "nfm-013",
-      "source": "Dhaka Mail",
+      "source": "The Dhaka Mail",
       "type": "portal",
       "title": "Dhaka Mail Coverage",
       "url": "https://dhakamail.com/health/314983",
@@ -167,18 +167,6 @@
       "publishedDate": "",
       "homepageOrder": 14,
       "pageOrder": 14,
-      "featured": false
-    },
-    {
-      "id": "nfm-015",
-      "source": "Jamuna TV News Portal",
-      "type": "portal",
-      "title": "Jamuna TV News Portal Coverage",
-      "url": "https://www.jamuna.tv/national/659620",
-      "thumbnail": "",
-      "publishedDate": "",
-      "homepageOrder": 15,
-      "pageOrder": 15,
       "featured": false
     },
     {
