@@ -31,8 +31,8 @@
     },
 
     {
-      "name": "Dr. Kamrun Naher Dolly",
-      "degree": "MBBS, DMU",
+      "name": "Dr. MD. Mijanur Rahman",
+      "degree": "MBBS, CCGP",
       "institute": ""
     },
 
@@ -55,14 +55,14 @@
     },
 
     {
-      "name": "Dr. Snahashish Dey",
-      "degree": "MBBS, CCD",
+      "name": "Dr. Sadia Tabassum",
+      "degree": "MBBS, CCD, CCCD, DMU",
       "institute": ""
     },
 
     {
-      "name": "Dr. Maliha Kamal",
-      "degree": "MBBS, MPH, DMU",
+      "name": "Dr. Shamanta Islam",
+      "degree": "MBBS, MPH, MRCOG (FP), DMU",
       "institute": ""
     },
 
@@ -91,8 +91,8 @@
     },
 
     {
-      "name": "Dr. H M Iftekhairul Alam",
-      "degree": "MBBS",
+      "name": "Dr. Jakia Ferdous Mimi",
+      "degree": "MBBS, DMU, MPH",
       "institute": ""
     },
 
@@ -177,12 +177,6 @@
     {
       "name": "Dr. Mohsina Ahmed Keya",
       "degree": "MBBS, FCGP, MSS (CSW), ADMU, CCD",
-      "institute": ""
-    },
-
-    {
-      "name": "Dr. Luvaiyat Mohsina Rob",
-      "degree": "MBBS, CCD",
       "institute": ""
     }
   ]
