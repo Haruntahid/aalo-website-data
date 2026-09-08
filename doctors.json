@@ -31,12 +31,6 @@
     },
 
     {
-      "name": "Dr. MD. Mijanur Rahman",
-      "degree": "MBBS, CCGP",
-      "institute": ""
-    },
-
-    {
       "name": "Dr. Tangina Afrose",
       "degree": "MBBS, MPH, ADMU",
       "institute": ""
@@ -55,18 +49,6 @@
     },
 
     {
-      "name": "Dr. Sadia Tabassum",
-      "degree": "MBBS, CCD, CCCD, DMU",
-      "institute": ""
-    },
-
-    {
-      "name": "Dr. Shamanta Islam",
-      "degree": "MBBS, MPH, MRCOG (FP), DMU",
-      "institute": ""
-    },
-
-     {
       "name": "Dr. Samar Chandra Roy",
       "degree": "MBBS, PGT, CCD",
       "institute": ""
@@ -87,12 +69,6 @@
     {
       "name": "Dr. Moumita Sarker",
       "degree": "MBBS",
-      "institute": ""
-    },
-
-    {
-      "name": "Dr. Jakia Ferdous Mimi",
-      "degree": "MBBS, DMU, MPH",
       "institute": ""
     },
 
@@ -178,6 +154,31 @@
       "name": "Dr. Mohsina Ahmed Keya",
       "degree": "MBBS, FCGP, MSS (CSW), ADMU, CCD",
       "institute": ""
+    },
+    
+    {
+      "name": "Dr. MD. Mijanur Rahman",
+      "degree": "MBBS, CCGP",
+      "institute": ""
+    },
+
+    {
+      "name": "Dr. Sadia Tabassum",
+      "degree": "MBBS, CCD, CCCD, DMU",
+      "institute": ""
+    },
+
+    {
+      "name": "Dr. Shamanta Islam",
+      "degree": "MBBS, MPH, MRCOG (FP), DMU",
+      "institute": ""
+    },
+
+    {
+      "name": "Dr. Jakia Ferdous Mimi",
+      "degree": "MBBS, DMU, MPH",
+      "institute": ""
     }
+    
   ]
 }
