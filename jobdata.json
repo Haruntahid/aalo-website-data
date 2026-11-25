@@ -1,6 +1,54 @@
 {
   "jobs": [
     {
+  "id": "sonologist",
+  "name": "Sonologist (Female)",
+  "responsibilities": [
+    "Perform ultrasonography (USG) at facility level",
+    "Prepare and interpret ultrasonography reports",
+    "Refer patients to appropriate healthcare facilities when required",
+    "Maintain patient confidentiality and ensure privacy of patient information",
+    "Ensure proper operation, maintenance, and troubleshooting of USG equipment",
+    "Maintain equipment supplies and arrange preventive maintenance and repairs when necessary",
+    "Update facility reporting boards on a daily basis",
+    "Participate in emergency patient management",
+    "Ensure infection prevention and control (IPC) practices",
+    "Maintain administrative procedures, records, and documentation",
+    "Participate in team management activities, including training, workshops, performance evaluation, and assessment",
+    "Coordinate with treating General Practitioners (GPs) regarding patient reports and clinical findings",
+    "Coordinate with the project team when required",
+    "Comply with project internal regulations, terms, and conditions of engagement"
+  ],
+  "education": [
+    "MBBS from a reputed medical college in Bangladesh",
+    "Diploma in Medical Ultrasonography (DMU) from a recognized institute"
+  ],
+  "experience": [
+    "Minimum 2 years of relevant professional experience",
+    "Experience in NGO or healthcare service delivery settings preferred"
+  ],
+  "additionalRequirements": [
+    "Valid BMDC registration",
+    "Female candidates only",
+    "Age not exceeding 55 years",
+    "Computer literacy",
+    "Strong clinical reporting and interpretation skills",
+    "Good communication and coordination skills",
+    "Ability to work collaboratively with General Practitioners and project teams",
+    "Ability to maintain patient confidentiality and follow infection prevention and control protocols"
+  ],
+  "location": "Aalo Clinic, Shyampur, Dhaka South City Corporation, Dhaka",
+  "employmentStatus": "Contractual",
+  "salary": "BDT 60,000 per month",
+  "workingHours": "9:00 AM to 4:00 PM, six days a week (Saturday to Thursday)",
+  "vacancy": 1,
+  "deadline": "30 November 2026",
+  "publishedDate": "24 November 2026",
+  "organization": "Partners in Health and Development (PHD)",
+  "project": "Model Urban PHC Clinics (Aalo Clinic) Project",
+  "applicationNote": "Applicants are encouraged to submit a Video CV."
+},
+    {
       "id": "nurse",
       "name": "Nurse",
       "responsibilities": [
