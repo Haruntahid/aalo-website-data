@@ -1,14 +1,19 @@
 {
   "sonologist":  [
   {
-    "name": "Dr. Shefat Sultana",
-    "degree": "MBBS, DMU, CCD, MCGP",
+    "name": "Dr.Esrat Jahan Bristy",
+    "degree": "MBBS, ADMU, DMU, PGT (Radiology & Imaging)",
     "institute": ""
   },
   {
     "name": "Dr. Rabeya Sultana",
     "degree": "MBBS, DMU, PGT",
     "institute": ""
+  },
+  {
+    "name": "Dr. Subarna Sultana Tama",
+    "degree": "MBBS, DMU, PGT (Radiology & Imaging)",
+    "institute": ""      
   }
 ]
 }
