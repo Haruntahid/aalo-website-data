@@ -6,11 +6,6 @@
       "institute": ""
     },
     {
-      "name": "Riya Akter Hira",
-      "degree": "Diploma in Paramedic",
-      "institute": ""
-    },
-    {
       "name": "Tahira Khan Runa",
       "degree": "Diploma in Paramedic",
       "institute": ""
@@ -41,11 +36,6 @@
       "institute": ""
     },
     {
-      "name": "Afifa Kaisar",
-      "degree": "Diploma in Medical Faculty",
-      "institute": ""
-    },
-    {
       "name": "Sonia Akter",
       "degree": "Diploma Medical Assistant",
       "institute": ""
@@ -68,6 +58,21 @@
     {
       "name": "Mondira Mitro",
       "degree": "Community Paramedic",
+      "institute": ""
+    },
+     {
+      "name": "Feroza Khatun",
+      "degree": "Diploma in Paramedic",
+      "institute": ""
+    },
+     {
+      "name": "Rahana Akter",
+      "degree": "Diploma in Paramedic",
+      "institute": ""
+    },
+     {
+      "name": "Morium Khatun",
+      "degree": "Diploma in Nursing",
       "institute": ""
     }
   ]
